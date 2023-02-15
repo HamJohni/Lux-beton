@@ -1,0 +1,36 @@
+.catalog{
+  background: url("../img/catalog/phon.catalog.png") center/cover no-repeat ;
+  padding: 123px 250px;
+
+  &__subtitle{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 50px;
+  }
+
+  &__cards{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 45px;
+  }
+
+  &__img{
+    width: 100%;
+  }
+
+  &__card{
+    display: flex;
+    flex-direction: column;
+    width: calc(50% - 10px);
+    row-gap: 20px;
+  }
+
+  &__img-subtitle{
+    font-size: 19px;
+    line-height: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    filter: drop-shadow(10px 10px 5px black);
+  }
+}

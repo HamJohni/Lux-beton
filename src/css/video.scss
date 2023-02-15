@@ -1,0 +1,24 @@
+.video{
+  padding: 100px 0 120px;
+
+  &__box{
+    background: url("../img/video/bg.png") center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    padding: 133px 0 289px;
+    row-gap: 69px;
+    text-align: center;
+    border-radius: 20px;
+  }
+
+  &__btn{
+    background: linear-gradient(95.37deg, #FF6712 46.88%, #FF9900 100%);
+    box-shadow: 0 6px 25px rgba(255, 145, 2, 0.6);
+    border-radius: 183px;
+    padding: 34px;
+    width: 47px;
+    height: 47px;
+    text-align: center;
+  }
+
+}

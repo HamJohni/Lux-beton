@@ -1,0 +1,158 @@
+.complexes__content{
+  position: relative;
+}
+.complexes__imgbg{
+  position:absolute;
+  top: -200px;
+  right: 0;
+}
+.complexes__grid{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.complexes__card1{
+  width: 32.30769% ;
+  background: linear-gradient(210.26deg, #FFDAA4 34.47%, #FFA722 89%);
+  border-radius: 20px;
+  padding: 32px 13px 7px;
+  position: relative;
+}
+.complexes__card1-title{
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+}
+.complexes__card1-text{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  padding: 7px 0 42px;
+}
+.complexes__card1-img2{
+  position: absolute;
+  top: 123px;
+  left:137px;
+  z-index: 1;
+}
+.complexes__cards{
+  display: flex;
+  row-gap: 20px;
+  flex-wrap: wrap;
+  width: 32.30769% ;
+
+}
+.complexes__card2{
+  width: 100% ;
+  border-radius: 20px;
+  position: relative;
+  padding-left: 28px;
+  background-color: #656565;
+}
+.complexes__card2-title{
+  padding: 32px 0 7px;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.complexes__card2-text{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+  padding-bottom: 47px;
+}
+.complexes__card2-img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-radius: 20px;
+}
+.complexes__card3{
+  width: 100% ;
+  border-radius: 20px;
+  position: relative;
+  padding-left: 28px;
+  background: linear-gradient(90.79deg, #404040 16.59%, #656565 88.75%);
+  border-radius: 20px;
+  color: #000;
+}
+.complexes__card3-title{
+  padding: 32px 0 7px;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+}
+.complexes__card3-text{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  padding-bottom: 47px;
+}
+.complexes__card3-img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-radius: 20px;
+}
+.complexes__card4{
+  background: linear-gradient(138.92deg, #FFDAA4 13.87%, #FFA722 91.05%);
+  border-radius: 20px;
+  padding-left: 29px;
+  width: 32% ;
+  position: relative;
+}
+.complexes__card4-title{
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  padding: 285px 0 7px;
+}
+.complexes__card4-text{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+}
+.complexes__card4-img{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  border-radius: 20px;
+}
+.complexes__card5{
+  width: 49%;
+  background: linear-gradient(56.01deg, #404040 36.3%, #656565 92.3%), linear-gradient(83.87deg, #FFDAA4 19.77%, #FFA722 86.85%);
+  border-radius: 20px;
+  padding-left: 28px;
+  position: relative;
+}
+.complexes__card5-title{
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding: 52px 0 7px;
+}
+.complexes__card5-text{
+  padding-bottom: 140px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+  z-index: 1;
+}
+.complexes__card5-img{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  width: 500px;
+}
+.complexes__card6-img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+}

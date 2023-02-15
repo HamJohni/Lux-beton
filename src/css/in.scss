@@ -1,0 +1,30 @@
+.introduction{
+  background: url("../img/in/introduction1.png") center/cover no-repeat;
+  padding: 204px 0 350px;
+  &__title{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 86px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  &__subtitle1{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+  }
+  &__subtitle2{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-left: 66px;
+    position: relative;
+  }
+  &__span{
+    position: absolute;
+    left: -60px;
+    top: 0;
+  }
+}
